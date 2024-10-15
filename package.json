@@ -14,7 +14,7 @@
 , "scripts": { "test": "mocha"
   }
 , "main" : "./index.js"
-, "dependencies" : { "send": "*"
+, "dependencies" : { "send": "0.19.0"
   }
 , "devDependencies": { "should": "*"
   , "connect": "~2"
